@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.0",
+  "versionCode": 101,
+  "versionName": "1.0.1",
   "downloadUrl": "https://github.com/leon-j84/TenDayParkingAlarm-Release/releases/latest",
-  "releaseNotes": "주차 10부제 알람 최초 정식 배포 버전",
+  "releaseNotes": "메인 화면과 달력 UX를 개선하고 향후 3개월 일정 확인 방식을 변경했습니다.",
   "required": false
 }
