@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.2",
+  "versionCode": 104,
+  "versionName": "1.0.4",
   "downloadUrl": "https://github.com/leon-j84/TenDayParkingAlarm-Release/releases/latest",
-  "releaseNotes": "메인 화면과 달력 UX를 개선하고 향후 3개월 일정 확인 방식을 변경했습니다.",
+  "releaseNotes": "v1.0.3 미배포 개선사항을 포함합니다. 알람 방식을 '알림만/알람' 2단계로 단순화하고, 화면 사용 중 유지형 알람 팝업, 스누즈·알람 끄기, 업데이트 후 알람 권한·예약 자동 재점검 및 설정 화면 안정성을 개선했습니다.",
   "required": false
 }
