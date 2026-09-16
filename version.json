@@ -1,7 +1,7 @@
 {
-  "versionCode": 104,
-  "versionName": "1.0.4",
+  "versionCode": 105,
+  "versionName": "1.0.5",
   "downloadUrl": "https://github.com/leon-j84/TenDayParkingAlarm-Release/releases/latest",
-  "releaseNotes": "v1.0.3 미배포 개선사항을 포함합니다. 알람 방식을 '알림만/알람' 2단계로 단순화하고, 화면 사용 중 유지형 알람 팝업, 스누즈·알람 끄기, 업데이트 후 알람 권한·예약 자동 재점검 및 설정 화면 안정성을 개선했습니다.",
+  "releaseNotes": "설정 변경 후 이전 알람 예약이 남을 수 있는 문제를 수정했습니다. 초기 기본값 예약을 차단하고, 설정 변경·업데이트 시 기존 예약을 정리한 뒤 현재 설정으로 재등록하며, 알람 실행 직전에도 현재 설정과 다시 검증하도록 안정성을 강화했습니다.",
   "required": false
 }
